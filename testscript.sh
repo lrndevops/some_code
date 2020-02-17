@@ -4,5 +4,4 @@ NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "add new comment"
 echo "this is testing commit"
-echo "this was run automagically"
 echo "this is  final call "
